@@ -15,6 +15,7 @@ HOW DOES IT WORK?
 The new url link will redirect users to the original lengthy url (Look up HTTP response status code 301, 302, 307 or 308).
 
 USEFUL LINKS:
+
 https://realpython.com/courses/python-requests/
 https://en.wikipedia.org/wiki/URL_shortening
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections
