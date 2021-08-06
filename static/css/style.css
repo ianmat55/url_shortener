@@ -21,7 +21,17 @@ h1 {
 }
 
 input {
-	width: 70%;
+	width: 70%!important;
+}
+
+button {
+	background: #ff9a8d!important;
+	color: black!important;
+	border-color: #ff9a8d!important;
+}
+
+button:hover {
+	color: white!important;
 }
 
 
