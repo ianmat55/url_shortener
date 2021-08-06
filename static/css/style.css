@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	background: #4a536b !important;
+}
+
 .container {
 	display: flex;
 	flex-direction: column;
